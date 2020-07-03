@@ -16,7 +16,7 @@ print(nome or "You didn't typed your name!")  # if nome is true, will show nome
   # ele para na primeira expressão verdadeira.
 
 a = 0
-b = None+
+b = None
 c = False
 d = []
 e = {}
