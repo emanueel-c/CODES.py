@@ -9,4 +9,3 @@ def boas_vindas(saudacao = 'olá', nome = 'Emanuel'):
 
 var_bv = boas_vindas()
 print(var_bv)  # chamando a def
-

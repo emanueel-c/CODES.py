@@ -13,6 +13,3 @@ print(ap)
 ap = valores(78, 39)
 print(ap)
 # valores()
-
-
-

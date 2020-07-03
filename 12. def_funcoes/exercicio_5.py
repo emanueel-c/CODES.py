@@ -23,6 +23,3 @@ while True:
     var = voto(int(input("Ano de nascimento: ")))  # aqui criei uma nova variavel para que pudesse haver um print
     # portanto, chamei a função voto, que por sua vez, usei da função input para que o usuário colocasse o ano de nasc.
     print(var)
-
-
-

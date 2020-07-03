@@ -45,20 +45,3 @@ from random import randint  # importando numeros aleatorios para
 for i in range(100):
     aleatorio = randint(0, 100)  # numeros de 0 a 100
     print(fb(aleatorio))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
